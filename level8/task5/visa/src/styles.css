@@ -1,0 +1,122 @@
+/* General Styles */
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #8edec6;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    width: 50%;
+    background-color: rgb(207, 158, 93);
+    padding: 70px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Form Styles */
+.form-group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: inline-block;
+    color: #555;
+}
+
+/* Input Fields */
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: all 0.3s ease-in-out;
+}
+
+input:focus, textarea:focus {
+    border-color: #007bff;
+    outline: none;
+    box-shadow: 0px 0px 5px rgba(0, 123, 255, 0.3);
+}
+
+/* Submit Button */
+button {
+    padding: 12px 18px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+button:disabled {
+    background-color: #999;
+    cursor: not-allowed;
+}
+
+/* Success & Error Messages */
+.success {
+    color: green;
+    font-weight: bold;
+    background-color: #e6ffed;
+    padding: 10px;
+    border: 1px solid #28a745;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+    background-color: #ffe6e6;
+    padding: 10px;
+    border: 1px solid #dc3545;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        width: 80%;
+    }
+
+    button {
+        font-size: 14px;
+    }
+}
+
+/* Fade-in Animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
