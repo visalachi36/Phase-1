@@ -1,0 +1,87 @@
+body, html {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+.blog-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+/* Blog Title */
+.blog-title {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.blog-list-container {
+    max-width: 800px;
+    margin: 40px auto; /* Centers the entire blog list */
+    padding: 20px;
+    text-align: center;
+    background-color: #97b7f3;
+}
+
+.blog-title {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: hsl(0, 48%, 88%);
+}
+
+.blog-post-container {
+    display: flex;
+    flex-direction: column; /* Keeps blog posts in a vertical column */
+    align-items: center; /* Centers horizontally */
+    justify-content: center; /* Centers vertically */
+    width: 100%;
+    min-height: 100vh; /* Ensures full viewport height for centering */
+
+}
+
+.blog-post {
+    width: 60%;
+    max-width: 600px; /* Prevents overly wide blog posts */
+    background-color: #97b7f3;
+    padding: 30px;
+    margin: 15px 0;
+    border-radius: 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out;
+    text-align: center;
+}
+
+.blog-post:hover {
+    transform: translateY(-5px);
+}
+
+.blog-post:hover {
+    transform: translateY(-5px);
+}
+
+.blog-post a {
+    text-decoration: none;
+    font-size: 22px;
+    color: #eeeb40;
+    font-weight: bold;
+}
+
+.blog-post a:hover {
+    text-decoration: underline;
+}
+
+.blog-description {
+    color: #555;
+    margin-top: 10px;
+    font-size: 16px;
+}

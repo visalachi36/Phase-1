@@ -1,0 +1,22 @@
+.cart {
+    text-align: center;
+    margin-bottom: 20px;
+    padding-left: 0px;
+  }
+  
+  .cart-button {
+    background: #333;
+    color: rgb(255, 255, 255);
+    padding: 12px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background 0.3s;
+
+  }
+  
+  .cart-button:hover {
+    background: #444;
+  }
+  

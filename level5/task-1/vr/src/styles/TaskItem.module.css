@@ -1,0 +1,28 @@
+.taskItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .taskItem.completed {
+    text-decoration: line-through;
+    background-color: #b9cf94;
+  }
+  
+  .taskItem button {
+    background-color: #dc3545;
+    color: rgb(243, 209, 209);
+    padding: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .taskItem button:hover {
+    background-color: #c82333;
+  }
+  
