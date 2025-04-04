@@ -1,0 +1,18 @@
+.list-container {
+    max-height: 400px;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background: #ecc6ef;
+    padding: 10px;
+  }
+  
+  .list-item {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .list-item:hover {
+    background-color: #8eebb2;
+  }
+  
