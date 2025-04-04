@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #bc9999;
+    margin: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  div {
+    text-align: center;
+    background: rgb(141, 185, 188);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #cf7474;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #555;
+  }
+  

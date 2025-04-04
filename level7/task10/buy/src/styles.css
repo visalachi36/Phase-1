@@ -1,0 +1,24 @@
+/* Geolocation Component */
+.geo-container {
+    padding: 30px;
+    background: white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin: 30px auto;
+    max-width: 500px;
+    width: fit-content;
+    text-align: center;
+    padding-left: 20px;
+    
+  }
+  
+  .error {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .location {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  

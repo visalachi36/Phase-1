@@ -1,0 +1,27 @@
+/* Infinite Scroll Component */
+.scroll-container {
+    padding: 20px;
+    background: rgb(220, 166, 166);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin: 20px auto;
+    max-width: 400px;
+    text-align: center;
+    overflow: hidden;
+    
+  }
+  
+  .scroll-item {
+    padding: 15px;
+    margin: 5px;
+    background: #f1f1f1;
+    border-radius: 5px;
+    font-size: 18px;
+  }
+  
+  .loading {
+    padding: 15px;
+    font-size: 18px;
+    color: #666;
+  }
+  
