@@ -1,0 +1,2 @@
+This event listener is triggered each time a chunk of data is read from the source file. It updates the progress and logs it to the console.
+The progress is calculated by dividing the amount of copied data by the total size of the file and multiplying it by 100 to get a percentage.

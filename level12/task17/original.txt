@@ -1,0 +1,2 @@
+This is some sensitive information.
+Make sure to encrypt it before sharing.

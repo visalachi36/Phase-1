@@ -1,0 +1,4 @@
+File: test.txt
+Size: 16 bytes
+Created: 11/07/2025, 10:00:00 AM
+Last Modified: 11/07/2025, 10:10:00 AM

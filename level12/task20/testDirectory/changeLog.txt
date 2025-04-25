@@ -1,0 +1,3 @@
+[2025-04-01T12:00:00.000Z] File created: testFile.txt
+[2025-04-01T12:05:00.000Z] File modified: testFile.txt
+[2025-04-01T12:10:00.000Z] File deleted: testFile.txt

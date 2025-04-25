@@ -1,0 +1,2 @@
+hello this is a website for creating a new one
+The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests
