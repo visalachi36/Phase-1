@@ -1,0 +1,280 @@
+[{
+  "_id": {
+    "$oid": "67ed140f109edbdb0e962b2a"
+  },
+  "name": "John Doe",
+  "age": 15,
+  "grade": 10,
+  "subjects": [
+    "Mathematics",
+    "Science",
+    "English"
+  ],
+  "address": {
+    "street": "123 Main St",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10001"
+  },
+  "scores": {
+    "math": 90,
+    "science": 85,
+    "english": 88
+  },
+  "status": "active",
+  "enrollment_date": {
+    "$date": "2023-06-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ed140f109edbdb0e962b2b"
+  },
+  "name": "Alice Johnson",
+  "age": 14,
+  "grade": 9,
+  "subjects": [
+    "History",
+    "Mathematics",
+    "Biology"
+  ],
+  "address": {
+    "street": "456 Elm St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90001"
+  },
+  "scores": {
+    "math": 80,
+    "science": 70,
+    "history": 85
+  },
+  "status": "active",
+  "enrollment_date": {
+    "$date": "2023-07-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ed140f109edbdb0e962b2c"
+  },
+  "name": "Michael Smith",
+  "age": 16,
+  "grade": 11,
+  "subjects": [
+    "Physics",
+    "Chemistry",
+    "Mathematics"
+  ],
+  "address": {
+    "street": "789 Oak St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60601"
+  },
+  "scores": {
+    "math": 95,
+    "science": 88,
+    "physics": 92
+  },
+  "status": "inactive",
+  "enrollment_date": {
+    "$date": "2022-09-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ed140f109edbdb0e962b2d"
+  },
+  "name": "Sophia Brown",
+  "age": 17,
+  "grade": 12,
+  "subjects": [
+    "English",
+    "Economics",
+    "Political Science"
+  ],
+  "address": {
+    "street": "321 Pine St",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77001"
+  },
+  "scores": {
+    "english": 85,
+    "economics": 80,
+    "political_science": 87
+  },
+  "status": "active",
+  "enrollment_date": {
+    "$date": "2023-05-20T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ed140f109edbdb0e962b2e"
+  },
+  "name": "David Martinez",
+  "age": 15,
+  "grade": 10,
+  "subjects": [
+    "Mathematics",
+    "Geography",
+    "Chemistry"
+  ],
+  "address": {
+    "street": "654 Cedar St",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85001"
+  },
+  "scores": {
+    "math": 78,
+    "geography": 88,
+    "chemistry": 82
+  },
+  "status": "active",
+  "enrollment_date": {
+    "$date": "2023-06-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ed140f109edbdb0e962b2f"
+  },
+  "name": "Emma Wilson",
+  "age": 14,
+  "grade": 9,
+  "subjects": [
+    "Science",
+    "Mathematics",
+    "Computer Science"
+  ],
+  "address": {
+    "street": "987 Birch St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19101"
+  },
+  "scores": {
+    "science": 92,
+    "math": 87,
+    "computer_science": 90
+  },
+  "status": "active",
+  "enrollment_date": {
+    "$date": "2023-08-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ed140f109edbdb0e962b30"
+  },
+  "name": "Olivia Anderson",
+  "age": 16,
+  "grade": 11,
+  "subjects": [
+    "Chemistry",
+    "Biology",
+    "Physics"
+  ],
+  "address": {
+    "street": "741 Maple St",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78201"
+  },
+  "scores": {
+    "chemistry": 85,
+    "biology": 89,
+    "physics": 84
+  },
+  "status": "inactive",
+  "enrollment_date": {
+    "$date": "2022-11-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ed140f109edbdb0e962b31"
+  },
+  "name": "William Thomas",
+  "age": 17,
+  "grade": 12,
+  "subjects": [
+    "Mathematics",
+    "Economics",
+    "Statistics"
+  ],
+  "address": {
+    "street": "159 Spruce St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101"
+  },
+  "scores": {
+    "math": 92,
+    "economics": 85,
+    "statistics": 90
+  },
+  "status": "active",
+  "enrollment_date": {
+    "$date": "2023-04-18T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ed140f109edbdb0e962b32"
+  },
+  "name": "Ethan White",
+  "age": 15,
+  "grade": 10,
+  "subjects": [
+    "History",
+    "Geography",
+    "English"
+  ],
+  "address": {
+    "street": "852 Walnut St",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75201"
+  },
+  "scores": {
+    "history": 88,
+    "geography": 90,
+    "english": 86
+  },
+  "status": "active",
+  "enrollment_date": {
+    "$date": "2023-07-25T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ed140f109edbdb0e962b33"
+  },
+  "name": "Ava Harris",
+  "age": 14,
+  "grade": 9,
+  "subjects": [
+    "English",
+    "Science",
+    "Art"
+  ],
+  "address": {
+    "street": "369 Palm St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94101"
+  },
+  "scores": {
+    "english": 90,
+    "science": 85,
+    "art": 95
+  },
+  "status": "active",
+  "enrollment_date": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  }
+}]

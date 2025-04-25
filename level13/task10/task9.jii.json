@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "67ed166c5130bf7e35ccd758"
+  },
+  "employee_id": "HR-1001",
+  "name": "Alice Johnson",
+  "department": "HR",
+  "hire_date": {
+    "$date": "2023-06-15T00:00:00.000Z"
+  },
+  "experience": 5
+},
+{
+  "_id": {
+    "$oid": "67ed166c5130bf7e35ccd759"
+  },
+  "employee_id": "IT-2002",
+  "name": "Bob Smith",
+  "department": "IT",
+  "hire_date": {
+    "$date": "2021-04-20T00:00:00.000Z"
+  },
+  "experience": 8
+},
+{
+  "_id": {
+    "$oid": "67ed166c5130bf7e35ccd75a"
+  },
+  "employee_id": "FN-3003",
+  "name": "Charlie Brown",
+  "department": "Finance",
+  "hire_date": {
+    "$date": "2019-11-10T00:00:00.000Z"
+  },
+  "experience": 10
+},
+{
+  "_id": {
+    "$oid": "67ed166c5130bf7e35ccd75b"
+  },
+  "employee_id": "MK-4004",
+  "name": "Daisy Adams",
+  "department": "Marketing",
+  "hire_date": {
+    "$date": "2022-09-05T00:00:00.000Z"
+  },
+  "experience": 3
+},
+{
+  "_id": {
+    "$oid": "67ed166c5130bf7e35ccd75c"
+  },
+  "employee_id": "IT-5005",
+  "name": "Ethan Williams",
+  "department": "IT",
+  "hire_date": {
+    "$date": "2020-07-18T00:00:00.000Z"
+  },
+  "experience": 12
+}]

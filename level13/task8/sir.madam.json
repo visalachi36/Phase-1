@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "67ed03ee968921e0f0f37ed7"
+  },
+  "name": "Rowling",
+  "birth_date": {
+    "$date": {
+      "$numberLong": "-139536000000"
+    }
+  },
+  "nationality": "British",
+  "biography": "Author of Harry Potter series",
+  "books": []
+},
+{
+  "_id": {
+    "$oid": "67ed03ee968921e0f0f37ed8"
+  },
+  "name": " Martin",
+  "birth_date": {
+    "$date": {
+      "$numberLong": "-671587200000"
+    }
+  },
+  "nationality": "American",
+  "biography": "Author of A Song of Ice and Fire",
+  "books": []
+},
+{
+  "_id": {
+    "$oid": "67ed03ee968921e0f0f37ed9"
+  },
+  "name": " Tolkien",
+  "birth_date": {
+    "$date": {
+      "$numberLong": "-2461276800000"
+    }
+  },
+  "nationality": "British",
+  "biography": "Author of The Lord of the Rings",
+  "books": []
+},
+{
+  "_id": {
+    "$oid": "67ed03ee968921e0f0f37eda"
+  },
+  "name": "Agatha ",
+  "birth_date": {
+    "$date": {
+      "$numberLong": "-2502316800000"
+    }
+  },
+  "nationality": "British",
+  "biography": "Queen of Mystery",
+  "books": []
+},
+{
+  "_id": {
+    "$oid": "67ed03ee968921e0f0f37edb"
+  },
+  "name": " Brown",
+  "birth_date": {
+    "$date": {
+      "$numberLong": "-174441600000"
+    }
+  },
+  "nationality": "American",
+  "biography": "Author of The Da Vinci Code",
+  "books": []
+}]

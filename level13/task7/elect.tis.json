@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "67ed00fc9565acc1ef266eff"
+  },
+  "name": "Laptop",
+  "price": 800,
+  "category": "Electronics",
+  "stock": 15
+},
+{
+  "_id": {
+    "$oid": "67ed00fc9565acc1ef266f00"
+  },
+  "name": "Smartphone",
+  "price": 600,
+  "category": "Electronics",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "67ed00fc9565acc1ef266f01"
+  },
+  "name": "Tablet",
+  "price": 300,
+  "category": "Electronics",
+  "stock": 25
+},
+{
+  "_id": {
+    "$oid": "67ed00fc9565acc1ef266f02"
+  },
+  "name": "Headphones",
+  "price": 150,
+  "category": "Accessories",
+  "stock": 50
+},
+{
+  "_id": {
+    "$oid": "67ed00fc9565acc1ef266f03"
+  },
+  "name": "Monitor",
+  "price": 250,
+  "category": "Electronics",
+  "stock": 20
+},
+{
+  "_id": {
+    "$oid": "67ed00fc9565acc1ef266f04"
+  },
+  "name": "Keyboard",
+  "price": 100,
+  "category": "Accessories",
+  "stock": 40
+},
+{
+  "_id": {
+    "$oid": "67ed00fc9565acc1ef266f05"
+  },
+  "name": "Mouse",
+  "price": 50,
+  "category": "Accessories",
+  "stock": 45
+},
+{
+  "_id": {
+    "$oid": "67ed00fc9565acc1ef266f06"
+  },
+  "name": "Smartwatch",
+  "price": 200,
+  "category": "Wearable",
+  "stock": 18
+},
+{
+  "_id": {
+    "$oid": "67ed00fc9565acc1ef266f07"
+  },
+  "name": "Camera",
+  "price": 500,
+  "category": "Electronics",
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "67ed00fc9565acc1ef266f08"
+  },
+  "name": "Printer",
+  "price": 150,
+  "category": "Electronics",
+  "stock": 12
+},
+{
+  "_id": {
+    "$oid": "67ed00fc9565acc1ef266f09"
+  },
+  "name": "Desk Chair",
+  "price": 120,
+  "category": "Furniture",
+  "stock": 8
+},
+{
+  "_id": {
+    "$oid": "67ed00fc9565acc1ef266f0a"
+  },
+  "name": "Sofa",
+  "price": 700,
+  "category": "Furniture",
+  "stock": 5
+},
+{
+  "_id": {
+    "$oid": "67ed00fc9565acc1ef266f0b"
+  },
+  "name": "Dining Table",
+  "price": 450,
+  "category": "Furniture",
+  "stock": 4
+},
+{
+  "_id": {
+    "$oid": "67ed00fc9565acc1ef266f0c"
+  },
+  "name": "Shoes",
+  "price": 80,
+  "category": "Fashion",
+  "stock": 60
+},
+{
+  "_id": {
+    "$oid": "67ed00fc9565acc1ef266f0d"
+  },
+  "name": "T-shirt",
+  "price": 30,
+  "category": "Fashion",
+  "stock": 90
+},
+{
+  "_id": {
+    "$oid": "67ed00fc9565acc1ef266f0e"
+  },
+  "name": "Jeans",
+  "price": 70,
+  "category": "Fashion",
+  "stock": 70
+},
+{
+  "_id": {
+    "$oid": "67ed00fc9565acc1ef266f0f"
+  },
+  "name": "Backpack",
+  "price": 90,
+  "category": "Accessories",
+  "stock": 35
+},
+{
+  "_id": {
+    "$oid": "67ed00fc9565acc1ef266f10"
+  },
+  "name": "Speakers",
+  "price": 250,
+  "category": "Electronics",
+  "stock": 22
+},
+{
+  "_id": {
+    "$oid": "67ed00fc9565acc1ef266f11"
+  },
+  "name": "Router",
+  "price": 130,
+  "category": "Electronics",
+  "stock": 28
+},
+{
+  "_id": {
+    "$oid": "67ed00fc9565acc1ef266f12"
+  },
+  "name": "Air Conditioner",
+  "price": 900,
+  "category": "Appliances",
+  "stock": 7
+}]

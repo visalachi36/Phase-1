@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "67ebc306160a9bbe798bd83c"
+  },
+  "name": "Visal",
+  "age": 15,
+  "grade": "10th",
+  "subjects": [
+    "Math",
+    "Science",
+    "English"
+  ],
+  "address": {
+    "street": "123 Maple St",
+    "city": "Springfield",
+    "state": "IL"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ebc335160a9bbe798bd83d"
+  },
+  "name": "niranjan",
+  "age": 14,
+  "grade": "9th",
+  "subjects": [
+    "History",
+    "Math",
+    "Art"
+  ],
+  "address": {
+    "street": "456 Oak Ave",
+    "city": "Riverside",
+    "state": "CA"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ebc335160a9bbe798bd83e"
+  },
+  "name": "kaviya",
+  "age": 16,
+  "grade": "11th",
+  "subjects": [
+    "Chemistry",
+    "Math",
+    "Biology"
+  ],
+  "address": {
+    "street": "789 Pine Rd",
+    "city": "Los Angeles",
+    "state": "CA"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ebc335160a9bbe798bd83f"
+  },
+  "name": "dinesh",
+  "age": 17,
+  "grade": "12th",
+  "subjects": [
+    "Physics",
+    "English",
+    "Economics"
+  ],
+  "address": {
+    "street": "101 Birch Blvd",
+    "city": "Chicago",
+    "state": "IL"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ebc335160a9bbe798bd840"
+  },
+  "name": "Leo",
+  "age": 16,
+  "grade": "11th",
+  "subjects": [
+    "Spanish",
+    "Music",
+    "Math"
+  ],
+  "address": {
+    "street": "202 Cedar Ln",
+    "city": "Dallas",
+    "state": "TX"
+  }
+}]
