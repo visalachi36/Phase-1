@@ -1,0 +1,21 @@
+[{
+  "_id": 1,
+  "name": "Niranjan",
+  "gender": "M",
+  "age": 24,
+  "loyalty": "gold"
+},
+{
+  "_id": 2,
+  "name": "Kaviya",
+  "gender": "F",
+  "age": 28,
+  "loyalty": "silver"
+},
+{
+  "_id": 3,
+  "name": "Ranji",
+  "gender": "M",
+  "age": 22,
+  "loyalty": "bronze"
+}]

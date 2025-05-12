@@ -1,0 +1,46 @@
+[{
+  "_id": 1001,
+  "userId": 1,
+  "items": [
+    {
+      "productId": 101,
+      "quantity": 1
+    },
+    {
+      "productId": 103,
+      "quantity": 2
+    }
+  ],
+  "orderDate": {
+    "$date": "2025-04-01T00:00:00.000Z"
+  },
+  "status": "delivered"
+},
+{
+  "_id": 1002,
+  "userId": 2,
+  "items": [
+    {
+      "productId": 102,
+      "quantity": 1
+    }
+  ],
+  "orderDate": {
+    "$date": "2025-04-02T00:00:00.000Z"
+  },
+  "status": "pending"
+},
+{
+  "_id": 1003,
+  "userId": 3,
+  "items": [
+    {
+      "productId": 103,
+      "quantity": 3
+    }
+  ],
+  "orderDate": {
+    "$date": "2025-04-03T00:00:00.000Z"
+  },
+  "status": "delivered"
+}]

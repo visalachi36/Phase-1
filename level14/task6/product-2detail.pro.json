@@ -1,0 +1,55 @@
+[{
+  "_id": 1,
+  "product": "Laptop",
+  "category": "Electronics",
+  "quantity": 2,
+  "price": 800,
+  "discount": 50,
+  "date": {
+    "$date": "2025-04-01T10:00:00.000Z"
+  }
+},
+{
+  "_id": 2,
+  "product": "Shoes",
+  "category": "Fashion",
+  "quantity": 3,
+  "price": 60,
+  "discount": 0,
+  "date": {
+    "$date": "2025-04-01T11:00:00.000Z"
+  }
+},
+{
+  "_id": 3,
+  "product": "Phone",
+  "category": "Electronics",
+  "quantity": 1,
+  "price": 500,
+  "discount": 20,
+  "date": {
+    "$date": "2025-04-02T09:00:00.000Z"
+  }
+},
+{
+  "_id": 4,
+  "product": "T-shirt",
+  "category": "Fashion",
+  "quantity": 4,
+  "price": 25,
+  "discount": 10,
+  "date": {
+    "$date": "2025-04-02T10:30:00.000Z"
+  }
+},
+{
+  "_id": 5,
+  "product": "Blender",
+  "category": "Home Appliances",
+  "quantity": 2,
+  "price": 120,
+  "discount": 15,
+  "date": {
+    "$date": "2025-04-03T14:00:00.000Z"
+  }
+}]

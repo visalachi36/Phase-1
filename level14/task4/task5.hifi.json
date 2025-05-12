@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "67f0f2217d193d8651e19966"
+  },
+  "date": {
+    "$date": "2025-01-05T00:00:00.000Z"
+  },
+  "product": "Laptop",
+  "quantity": 1,
+  "amount": 50000
+},
+{
+  "_id": {
+    "$oid": "67f0f2217d193d8651e19967"
+  },
+  "date": {
+    "$date": "2025-01-10T00:00:00.000Z"
+  },
+  "product": "Phone",
+  "quantity": 2,
+  "amount": 40000
+},
+{
+  "_id": {
+    "$oid": "67f0f2217d193d8651e19968"
+  },
+  "date": {
+    "$date": "2025-01-15T00:00:00.000Z"
+  },
+  "product": "Tablet",
+  "quantity": 3,
+  "amount": 30000
+},
+{
+  "_id": {
+    "$oid": "67f0f2217d193d8651e19969"
+  },
+  "date": {
+    "$date": "2025-02-03T00:00:00.000Z"
+  },
+  "product": "Laptop",
+  "quantity": 1,
+  "amount": 55000
+},
+{
+  "_id": {
+    "$oid": "67f0f2217d193d8651e1996a"
+  },
+  "date": {
+    "$date": "2025-02-10T00:00:00.000Z"
+  },
+  "product": "Phone",
+  "quantity": 4,
+  "amount": 80000
+},
+{
+  "_id": {
+    "$oid": "67f0f2217d193d8651e1996b"
+  },
+  "date": {
+    "$date": "2025-02-20T00:00:00.000Z"
+  },
+  "product": "Tablet",
+  "quantity": 1,
+  "amount": 12000
+},
+{
+  "_id": {
+    "$oid": "67f0f2217d193d8651e1996c"
+  },
+  "date": {
+    "$date": "2025-03-01T00:00:00.000Z"
+  },
+  "product": "Laptop",
+  "quantity": 2,
+  "amount": 105000
+},
+{
+  "_id": {
+    "$oid": "67f0f2217d193d8651e1996d"
+  },
+  "date": {
+    "$date": "2025-03-05T00:00:00.000Z"
+  },
+  "product": "Phone",
+  "quantity": 1,
+  "amount": 22000
+},
+{
+  "_id": {
+    "$oid": "67f0f2217d193d8651e1996e"
+  },
+  "date": {
+    "$date": "2025-03-10T00:00:00.000Z"
+  },
+  "product": "Tablet",
+  "quantity": 2,
+  "amount": 25000
+},
+{
+  "_id": {
+    "$oid": "67f0f2217d193d8651e1996f"
+  },
+  "date": {
+    "$date": "2025-04-01T00:00:00.000Z"
+  },
+  "product": "Laptop",
+  "quantity": 1,
+  "amount": 52000
+},
+{
+  "_id": {
+    "$oid": "67f0f2217d193d8651e19970"
+  },
+  "date": {
+    "$date": "2025-04-05T00:00:00.000Z"
+  },
+  "product": "Phone",
+  "quantity": 2,
+  "amount": 45000
+},
+{
+  "_id": {
+    "$oid": "67f0f2217d193d8651e19971"
+  },
+  "date": {
+    "$date": "2025-04-15T00:00:00.000Z"
+  },
+  "product": "Tablet",
+  "quantity": 3,
+  "amount": 32000
+},
+{
+  "_id": {
+    "$oid": "67f0f2217d193d8651e19972"
+  },
+  "date": {
+    "$date": "2025-05-01T00:00:00.000Z"
+  },
+  "product": "Laptop",
+  "quantity": 1,
+  "amount": 60000
+},
+{
+  "_id": {
+    "$oid": "67f0f2217d193d8651e19973"
+  },
+  "date": {
+    "$date": "2025-05-05T00:00:00.000Z"
+  },
+  "product": "Phone",
+  "quantity": 2,
+  "amount": 50000
+},
+{
+  "_id": {
+    "$oid": "67f0f2217d193d8651e19974"
+  },
+  "date": {
+    "$date": "2025-05-10T00:00:00.000Z"
+  },
+  "product": "Tablet",
+  "quantity": 3,
+  "amount": 36000
+},
+{
+  "_id": {
+    "$oid": "67f0f2217d193d8651e19975"
+  },
+  "date": {
+    "$date": "2025-06-03T00:00:00.000Z"
+  },
+  "product": "Laptop",
+  "quantity": 2,
+  "amount": 110000
+},
+{
+  "_id": {
+    "$oid": "67f0f2217d193d8651e19976"
+  },
+  "date": {
+    "$date": "2025-06-06T00:00:00.000Z"
+  },
+  "product": "Phone",
+  "quantity": 1,
+  "amount": 23000
+},
+{
+  "_id": {
+    "$oid": "67f0f2217d193d8651e19977"
+  },
+  "date": {
+    "$date": "2025-06-08T00:00:00.000Z"
+  },
+  "product": "Tablet",
+  "quantity": 2,
+  "amount": 29000
+},
+{
+  "_id": {
+    "$oid": "67f0f2217d193d8651e19978"
+  },
+  "date": {
+    "$date": "2025-06-20T00:00:00.000Z"
+  },
+  "product": "Laptop",
+  "quantity": 1,
+  "amount": 58000
+},
+{
+  "_id": {
+    "$oid": "67f0f2217d193d8651e19979"
+  },
+  "date": {
+    "$date": "2025-06-25T00:00:00.000Z"
+  },
+  "product": "Phone",
+  "quantity": 3,
+  "amount": 70000
+}]

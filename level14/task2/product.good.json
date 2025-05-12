@@ -1,0 +1,60 @@
+[{
+  "_id": 1,
+  "name": "Laptop",
+  "category": "Electronics",
+  "price": 800
+},
+{
+  "_id": 2,
+  "name": "Smartphone",
+  "category": "Electronics",
+  "price": 600
+},
+{
+  "_id": 3,
+  "name": "Headphones",
+  "category": "Electronics",
+  "price": 150
+},
+{
+  "_id": 4,
+  "name": "T-Shirt",
+  "category": "Fashion",
+  "price": 25
+},
+{
+  "_id": 5,
+  "name": "Jeans",
+  "category": "Fashion",
+  "price": 50
+},
+{
+  "_id": 6,
+  "name": "Sneakers",
+  "category": "Fashion",
+  "price": 90
+},
+{
+  "_id": 7,
+  "name": "Blender",
+  "category": "Home Appliances",
+  "price": 120
+},
+{
+  "_id": 8,
+  "name": "Microwave",
+  "category": "Home Appliances",
+  "price": 200
+},
+{
+  "_id": 9,
+  "name": "Notebook",
+  "category": "Stationery",
+  "price": 10
+},
+{
+  "_id": 10,
+  "name": "Pen Set",
+  "category": "Stationery",
+  "price": 5
+}]

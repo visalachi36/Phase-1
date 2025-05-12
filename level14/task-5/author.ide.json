@@ -1,0 +1,25 @@
+[{
+  "_id": 1,
+  "title": "MongoDB Basics",
+  "author_id": 101
+},
+{
+  "_id": 2,
+  "title": "Node.js Guide",
+  "author_id": 101
+},
+{
+  "_id": 3,
+  "title": "Advanced MongoDB",
+  "author_id": 103
+},
+{
+  "_id": 4,
+  "title": "JavaScript in Depth",
+  "author_id": 102
+},
+{
+  "_id": 5,
+  "title": "Data Structures",
+  "author_id": 105
+}]

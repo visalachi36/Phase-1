@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "67f36ece4239e8173ac43c4b"
+  },
+  "name": "Niranjan",
+  "age": 18,
+  "score": 78
+},
+{
+  "_id": {
+    "$oid": "67f36ece4239e8173ac43c4c"
+  },
+  "name": "Kaviya",
+  "age": 21,
+  "score": 88
+},
+{
+  "_id": {
+    "$oid": "67f36ece4239e8173ac43c4d"
+  },
+  "name": "Ranji",
+  "age": 24,
+  "score": 92
+},
+{
+  "_id": {
+    "$oid": "67f36ece4239e8173ac43c4e"
+  },
+  "name": "Dinesh",
+  "age": 19,
+  "score": 67
+},
+{
+  "_id": {
+    "$oid": "67f36ece4239e8173ac43c4f"
+  },
+  "name": "Swetha",
+  "age": 22,
+  "score": 71
+},
+{
+  "_id": {
+    "$oid": "67f36ece4239e8173ac43c50"
+  },
+  "name": "Aakash",
+  "age": 25,
+  "score": 85
+},
+{
+  "_id": {
+    "$oid": "67f36ece4239e8173ac43c51"
+  },
+  "name": "Priya",
+  "age": 20,
+  "score": 95
+},
+{
+  "_id": {
+    "$oid": "67f36ece4239e8173ac43c52"
+  },
+  "name": "Rahul",
+  "age": 23,
+  "score": 58
+},
+{
+  "_id": {
+    "$oid": "67f36ece4239e8173ac43c53"
+  },
+  "name": "Divya",
+  "age": 26,
+  "score": 64
+},
+{
+  "_id": {
+    "$oid": "67f36ece4239e8173ac43c54"
+  },
+  "name": "Arun",
+  "age": 29,
+  "score": 45
+}]
