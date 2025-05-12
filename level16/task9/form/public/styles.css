@@ -1,0 +1,102 @@
+/* Global Styling */
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('https://via.placeholder.com/1200x800'); /* Add your background image URL here */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: rgb(207, 142, 142);
+  background-color: beige;
+}
+
+/* Form Container */
+h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 6%;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+  position: absolute;
+  top: 20px; /* Position the heading at the top */
+  left: 50%;
+  transform: translateX(-50%); /* Center the heading horizontally */
+  color: white;
+}
+
+/* Main Form Container */
+form {
+  background-color: rgba(171, 189, 146, 0.8); /* Slightly transparent background */
+  border-radius: 10px;
+  padding: 30px;
+  width: 350px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin-top: 100px; /* Add space between the top and form */
+  position: relative; /* Relative position for absolute heading */
+}
+
+/* Form Field Labels */
+label {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 5px;
+  display: block;
+}
+
+/* Input Fields and Textarea */
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 2px;
+  font-size: 1rem;
+  background-color: hwb(0 89% 7%);
+}
+
+input:focus, textarea:focus {
+  border-color: #4CAF50;
+  outline: none;
+}
+
+/* Textarea Specific */
+textarea {
+  resize: vertical;
+  height: 100px;
+}
+
+/* Submit Button */
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+  color: #4CAF50;
+  font-size: 1rem;
+  display: block;
+  margin-top: 10px;
+  text-align: center;
+}
+
+a:hover {
+  text-decoration: underline;
+}
