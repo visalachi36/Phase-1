@@ -1,0 +1,19 @@
+{
+  "name": "visa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "asciichart": "^1.5.25",
+    "axios": "^1.8.4",
+    "dotenv": "^16.4.7",
+    "mongoose": "^8.13.2"
+  }
+}

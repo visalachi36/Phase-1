@@ -1,0 +1,4 @@
+[2025-06-01T15:33:18.942Z] Backup failed: ENOENT: no such file or directory, scandir 'C:\Users\HP\Desktop\PHASE-1\level15\task-10\visal\important-data'
+[2025-06-01T15:35:28.802Z] Backup failed: ENOTDIR: not a directory, scandir 'C:\Users\HP\Desktop\PHASE-1\level15\task-10\visal\important-data'
+[2025-06-01T15:40:01.752Z] Backup completed: C:\Users\HP\Desktop\PHASE-1\level15\task-10\visal\backups\backup-2025-06-01T15-40-01-731Z
+[2025-06-01T15:40:41.649Z] Backup completed: C:\Users\HP\Desktop\PHASE-1\level15\task-10\visal\backups\backup-2025-06-01T15-40-41-629Z

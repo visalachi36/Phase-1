@@ -1,0 +1,6 @@
+{
+  "sourceDir": "./important-data",
+  "backupDir": "./backups",
+  "maxBackups": 5,
+  "schedule": "0 0 * * *"  
+}
