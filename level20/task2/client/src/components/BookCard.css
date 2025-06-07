@@ -1,0 +1,39 @@
+.book-card {
+  width: 250px;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  overflow: hidden;
+  transition: transform 0.2s;
+  margin: 16px;
+}
+
+.book-card:hover {
+  transform: scale(1.03);
+}
+
+.book-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.book-cover {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.book-details {
+  padding: 16px;
+}
+
+.book-details h3 {
+  font-size: 1.2rem;
+  margin: 0 0 8px;
+}
+
+.book-details .desc {
+  font-size: 0.9rem;
+  color: #555;
+}

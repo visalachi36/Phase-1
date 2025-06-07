@@ -1,0 +1,11 @@
+.collection-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .book-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  

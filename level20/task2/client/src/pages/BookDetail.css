@@ -1,0 +1,42 @@
+.detail-container {
+    padding: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  .back-btn {
+    display: inline-block;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: #0077cc;
+    font-weight: bold;
+  }
+  
+  .book-detail-card {
+    display: flex;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+    overflow: hidden;
+  }
+  
+  .detail-image {
+    width: 300px;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .detail-info {
+    padding: 20px;
+  }
+  
+  .detail-info h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .detail-info h3 {
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
